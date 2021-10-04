@@ -1,4 +1,4 @@
-# My Sites's Live Server [Course-Panda](https://course-panda.netlify.app/) .
+# My Sites's Live Server [Course-Panda](https://course-panda.netlify.app/) : (https://course-panda.netlify.app/).
 
 # My Site description:
  * Offers Online course.
