@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category": "Computer science",
+        "img": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg"
+    },
+    {
+        "id": 2,
+        "category": "Cyber Security",
+        "img":"https://image.freepik.com/free-vector/global-data-security-personal-data-security-cyber-data-security-online-concept-illustration-internet-security-information-privacy-protection_1150-37352.jpg"
+    },
+    {
+        "id": 3,
+        "category": "Data Science",
+        "img":"https://image.freepik.com/free-photo/paper-analysis_1098-15678.jpg"
+    },
+    {
+        "id": 4,
+        "category": "Project Management",
+        "img":"https://image.freepik.com/free-vector/team-leader-managing-project_1262-21430.jpg"
+    }
+]

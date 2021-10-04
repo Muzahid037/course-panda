@@ -1,0 +1,8 @@
+.top-banner
+{
+    background: url("./../../image/top-banner.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px 500px;
+    padding: 50px;
+    opacity: 0.85;
+}
