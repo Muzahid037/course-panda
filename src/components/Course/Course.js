@@ -13,7 +13,7 @@ const Course = (props) => {
                     <div className="card h-100">
                         <img src={img} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                        <h4 className="card-title">{title}</h4>
+                        <h5 className="card-title">{title}</h5>
                         <p className="card-text">{getFirstNWordsFromString(description,10)}...</p>
                         <h5>Course Price: {charges}$</h5>
                         <Link className="text-decoration-none" to='/courses'>
